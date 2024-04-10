@@ -1,4 +1,4 @@
-@Library(SIE-Terminator) _
+package SIE-Terminator;
 def samnavi = jai
 def call {
   if(samanvi == jai) {
